@@ -1,12 +1,19 @@
-## Hi there 👋
 
-<!--
+# Astory Projects
 
-**Here are some ideas to get you started:**
+Сервера по Garry's Mod и прочим играм.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Данный репозиторий сделан для закрытых целей, искать тут нечего.
+
+## 🚀 Наши сервера
+- MilitaryRP - [Зайти на сервер](steam://connect/79.165.75.217:27015) - [Дискорд](https://discord.gg/ftwKcAWdgA)
+
+## Ссылки
+
+ - [Наш дискорд](https://discord.gg/ftwKcAWdgA)
+
+## Команда
+
+- [@moriokii](https://www.github.com/moriokii) | morioki#7356
+- Rruell | ~Rruell#4073
+
