@@ -15,5 +15,4 @@
 ## Команда
 
 - [@moriokii](https://www.github.com/moriokii) | morioki#7356
-- Rruell | ~Rruell#4073
 
